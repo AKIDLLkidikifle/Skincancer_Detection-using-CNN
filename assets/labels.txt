@@ -1,0 +1,5 @@
+basal
+melanoma
+normal
+pigmented
+Not skin
